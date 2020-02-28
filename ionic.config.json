@@ -1,0 +1,7 @@
+{
+  "name": "PelisDB2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
